@@ -41,7 +41,6 @@ namespace TrendLines {
             trendline1.Color = Color.Red;
             trendline1.LineStyle.DashStyle = DashStyle.Dash;
 
-
             // Cast the view type of the series to the Stock view.
             StockSeriesView myView = ((StockSeriesView)series1.View);
 

@@ -3,7 +3,7 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 
-# How to Add a Trend Line to a Chart
+# Chart for WinForms - How to Add a Trend Line to a Chart
 
 This example demonstrates how add a Trend Line to the stock chart at runtime. The following image illustrates the resulting UI:
 
